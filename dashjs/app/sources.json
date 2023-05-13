@@ -4,7 +4,7 @@
       "name": "VOD (Static MPD)",
       "submenu": [
         {
-          "url": "192.168.0.xx/bbb_dash.mpd",
+          "url": "10.0.0.2/bbb_dash.mpd",
           "name": "SegmentTemplate/Number, live profile",
           "moreInfo": ""
         }
